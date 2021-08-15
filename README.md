@@ -4,6 +4,7 @@ Description: A GUI based login system which uses face recognition. Uses OpenCV, 
 
 
 Prerequisites (Dependencies):
+
 1. PIL (Python imaging Library)
 	(link - https://pypi.org/project/Pillow)
 2. pytesseract library
@@ -21,6 +22,7 @@ Prerequisites (Dependencies):
 
 
 Installation:
+	
 	1. Download the Program Folder
 	
 	2. Open dist and run final_recog.exe
