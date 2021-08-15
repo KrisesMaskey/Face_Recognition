@@ -1,7 +1,7 @@
 # Face_Recognition
 Project Title: Face Recognotion Login
 Description: A GUI based login system which uses face recognition. Uses OpenCV, Face_recognition, Numpy and Tkinter to facilitate face recognition.
---------x--------x-------x--------x-------x--------x-------x
+
 
 Prerequisites (Dependencies):
 1. PIL (Python imaging Library)
@@ -18,10 +18,10 @@ Prerequisites (Dependencies):
 	(link - https://pypi.org/project/dlib)
 7. Cmake Library
 	(link - https://pypi.org/project/cmake)
---------x--------x-------x--------x-------x--------x-------x
+
 
 Installation:
 	1. Download the Program Folder
 	2. Open dist and run final_recog.exe
 	3. Enjoy
---------x--------x--------x--------x-------x--------x-------x
+
