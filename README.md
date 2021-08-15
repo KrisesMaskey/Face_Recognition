@@ -22,6 +22,8 @@ Prerequisites (Dependencies):
 
 Installation:
 	1. Download the Program Folder
+	
 	2. Open dist and run final_recog.exe
+	
 	3. Enjoy
 
